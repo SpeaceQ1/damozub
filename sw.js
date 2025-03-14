@@ -1,9 +1,9 @@
 const CACHE_NAME = "my-pwa-cache-v1";
 const FILES_TO_CACHE = [
-  "/jaobywatel/",  // Główna strona aplikacji
-  "/jaobywatel/index.html",  // Strona index
-  "/jaobywatel/icon-192.png",  // Ikona 192x192
-  "/jaobywatel/icon-512.png"  // Ikona 512x512
+  "/damozub/",  // Główna strona aplikacji
+  "/damozub/index.html",  // Strona index
+  "/damozub/icon-192.png",  // Ikona 192x192
+  "/damozub/icon-512.png"  // Ikona 512x512
 ];
 
 // Instalacja Service Workera i zapisanie plików w cache
